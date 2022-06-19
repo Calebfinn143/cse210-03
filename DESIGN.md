@@ -1,0 +1,24 @@
++-- game
+    +-- directing
+      +-- director.py
+    +-- casting
+      +-- cast.py
+      +-- actor.py
+      +-- food.py             
+      +-- score.py
+      +-- snake.py
+    +-- scripting
+      +-- action.py
+      +-- control_actors_action.py
+      +-- draw_actors_action.py
+      +-- handle_collisions_action.py
+      +-- move_actors_action.py
+      +-- script.py
+    +-- services
+      +-- keyboard_service.py
+      +-- video_service.py
+    +-- shared
+      +-- point.py
+      +-- color.py
+  +-- __main__.py
+  +-- constants.py

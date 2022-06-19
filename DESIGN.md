@@ -4,15 +4,15 @@
     +-- casting
       +-- cast.py
       +-- actor.py
-      +-- food.py             
-      +-- score.py
-      +-- snake.py
+      +-- cyclers.py                    (Parent Class)
+      +-- player_one.py                 (Child Class)
+      +-- player_two.py                 (Child Class)
     +-- scripting
-      +-- action.py
-      +-- control_actors_action.py
-      +-- draw_actors_action.py
-      +-- handle_collisions_action.py
-      +-- move_actors_action.py
+      +-- action.py                     (Parent Class)
+      +-- control_actors_action.py      (Child Class)
+      +-- draw_actors_action.py         (Child Class)
+      +-- handle_collisions_action.py   (Child Class)
+      +-- move_actors_action.py         (Child Class)
       +-- script.py
     +-- services
       +-- keyboard_service.py
